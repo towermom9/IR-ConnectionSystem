@@ -1,24 +1,25 @@
 {
-  "NAME"     : "Infernal Robotics Next - ConnectionSystem",
-  "DOWNLOAD" : "https://github.com/meirumeiru/IR-ConnectionSystem/releases",
-  "URL"      : "https://github.com/meirumeiru/IR-ConnectionSystem/raw/main/Resources/GameData/IRConnectionSystem/ConnectionSystem.version",
-  "GITHUB" : {
-      "USERNAME"   : "meirumeiru",
-      "REPOSITORY" : "IR-ConnectionSystem"
-  },
-  "VERSION" : {
-    "MAJOR" : 1,
-    "MINOR" : 0,
-    "PATCH" : 6
-  },
-  "KSP_VERSION" : {
-    "MAJOR" : 1,
-    "MINOR" : 12,
-    "PATCH" : 3
-  },
-  "KSP_VERSION_MIN" : {
-    "MAJOR" : 1,
-    "MINOR" : 12,
-    "PATCH" : 0
-  }
+    "NAME":"Infernal Robotics Next - ConnectionSystem",
+    "DOWNLOAD":"https://github.com/towermom9/IR-ConnectionSystem/releases",
+    "URL":"https://github.com/towermom9/IR-ConnectionSystem/raw/Temp-Fix/Resources/GameData/IRConnectionSystem/ConnectionSystem.version",
+    "GITHUB" : {
+        "USERNAME"   : "towermom9",
+        "REPOSITORY" : "IR-ConnectionSystem"
+    },
+    "VERSION" : {
+        "MAJOR" : 1,
+        "MINOR" : 0,
+        "PATCH" : 5,
+        "BUILD" : 1
+    },
+    "KSP_VERSION" : {
+        "MAJOR" : 1,
+        "MINOR" : 12,
+        "PATCH" : 5
+    },
+    "KSP_VERSION_MIN" : {
+        "MAJOR" : 1,
+        "MINOR" : 12,
+        "PATCH" : 0
+    }
 }
